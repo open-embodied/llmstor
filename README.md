@@ -1,12 +1,14 @@
-# llmstor - LLMstor utilizes cutting-edge LLMs to parse natural language queries and generate comprehensive file indexes. 
+# llmstor 
+
+ LLMstor utilizes cutting-edge LLMs to parse natural language queries and generate comprehensive file indexes. 
+
+# For Futuer
+
+ LLMstor is the file system for the embodied time.
+
+# llmstor
 
  LLMstor is a revolutionary storage system designed to optimize user productivity, enhance privacy protection, and ensure absolute file security. By leveraging advanced large language models (LLMs), LLMstor simplifies file management, making it as convenient as the mythical Chinese Qiankun Bag. Users can effortlessly store files without the need for traditional, cumbersome organization methods.
-
-
-
-
-
-
 
 **Product Introduction: LLMstor**
 
@@ -43,34 +45,17 @@ LLMstor is a revolutionary storage system designed to optimize user productivity
 
 LLMstor represents a paradigm shift in file management technology. By harnessing the power of large language models, it transforms the way users interact with their files, offering unparalleled convenience, security, and efficiency. Whether you're an individual or a business, LLMstor is the ultimate solution for simplifying your digital life.
 
+# Our Cloud Service for LLMstor
 
+A modern, secure, and llm surportted file hosting platform built with Go and React.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A modern, secure, and feature-rich image hosting platform built with Go and React.
-
-[![Go Version](https://img.shields.io/badge/Go-1.24.1-blue.svg)](https://go.dev/)
-[![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
-
-[Documentation](https://usesimp.app/docs) | [Live Demo](https://demo.usesimp.app/admin)
+[Live Demo](https://www.llmstor.com)
 
 ## Features
 
 - 🔒 Secure authentication with JWT and CSRF protection
-- 📊 Detailed analytics and view tracking
+- 📊 LLM inside, DeepSeek, OpenAI ……
+- 🌍  Detailed analytics and view tracking
 - 🌍 Geographic view statistics
 - 🔐 Public/private image support
 - 📱 Modern, responsive UI
@@ -83,4 +68,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the AGPLv3 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License  
