@@ -2,6 +2,12 @@
 
  LLMstor utilizes cutting-edge LLMs to parse natural language queries and generate comprehensive file indexes. 
 
+# For Futuer
+
+ LLMstor is the file system for the embodied time.
+
+# llmstor
+
  LLMstor is a revolutionary storage system designed to optimize user productivity, enhance privacy protection, and ensure absolute file security. By leveraging advanced large language models (LLMs), LLMstor simplifies file management, making it as convenient as the mythical Chinese Qiankun Bag. Users can effortlessly store files without the need for traditional, cumbersome organization methods.
 
 **Product Introduction: LLMstor**
