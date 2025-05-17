@@ -2,7 +2,7 @@
 
  LLMstor utilizes cutting-edge LLMs to parse natural language queries and generate comprehensive file indexes. 
 
-# For Futuer
+# For future
 
  LLMstor is the file system for the embodied time.
 
