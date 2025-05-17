@@ -1,10 +1,13 @@
-# llmstor 
+![10effd56ec934fc1abb2d575578ee2bc_0(1)](https://github.com/user-attachments/assets/7e68742b-e5d8-46f3-902d-2dff214ead31)# llmstor 
 
  LLMstor utilizes cutting-edge LLMs to parse natural language queries and generate comprehensive file indexes. 
 
 # For future
 
  LLMstor is the file system for the embodied time.
+
+ This project is a part of open embodied, the future robot OS.  https://github.com/open-embodied
+[open embodied](https://github.com/open-embodied)
 
 # llmstor
 
